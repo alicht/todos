@@ -1,0 +1,15 @@
+touch avilichtschein.txt
+touch I like pizza
+touch I live in NYC
+cntrl + C
+cat avilichtschein.txt
+cat avilichtschein.txt >> avilichtscheincopy.txt
+mv avilichtscheincopy.txt stevenrules.txt
+ls
+cd ..
+ls
+cat avilichtschein.txt stevenrules.txt >> everything.txt
+cat >> everything.txt 
+I like pina coladas and getting caught in the rain
+^C
+ls *.txt >> textfileslist 
