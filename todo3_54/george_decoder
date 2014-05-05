@@ -1,0 +1,5 @@
+def decoder (str)
+  str.reverse.swapcase
+end
+
+puts decoder("George")
